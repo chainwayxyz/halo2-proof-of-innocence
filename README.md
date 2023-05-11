@@ -1,6 +1,6 @@
 # Halo2 Proof of Innocence
 
-Proof of Innocence code written in halo2 using (halo2-scaffold)[https://github.com/axiom-crypto/halo2-scaffold/]
+Proof of Innocence code written in halo2 using [halo2-scaffold](https://github.com/axiom-crypto/halo2-scaffold/)
 
 To run
 ```
